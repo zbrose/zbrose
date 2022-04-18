@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi There, I'm Zach and this is my github page!  Check out my pinned repos for a look into some projects I'm recently working on.
+## Hi Here
+I'm Zach and this is my github page!  Check out my pinned repos for a look into some projects I'm recently working on.
