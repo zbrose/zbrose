@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi There
-I'm Zach and this is my github page!  Check out my pinned repos for a look into some projects I'm recently working on.
+I'm a software engineer specializing in UI modernizations and reusable component libraries to elevate user experience and application performance.
+
+Before transitioning into software development in 2022, I spent over a decade as a professional musician—performing, recording, and teaching. I'm most interested in the intersection between technology and music, and building communal platforms where musicians can share their work freely and be compensated fairly. Having grown up with video games, I'm excited about the idea of creating interactive multi-media experiences someday, marrying aspects of my love for music with immersive worlds through code.
+
+I'm experienced in implementing designs using JavaScript frameworks such as Angular, React, Vue, and Next.js, while also building component libraries that help businesses streamline their development practices. One of my most recent projects involved integrating Contentstack's headless CMS with a custom React component library to create a low-code solution for building dynamic digital experiences. In my previous role as a software consultant, I was often tasked with quickly learning new tools and technologies to provide recommendations and develop long-lasting solutions. This fast-paced environment has helped me become highly adaptable and self-motivated.
